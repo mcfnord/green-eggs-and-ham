@@ -1,3 +1,4 @@
 # green-eggs-and-ham
-Testing this thing!
-And thiiiiis is my first commit
+
+I would not eat green eggs and ham.  
+I would not eat it, Sam-I-Am!
